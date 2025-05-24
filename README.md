@@ -57,7 +57,7 @@ flowchart LR
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/<your‑username>/ai‑innovator.git
+git clone https://github.com/AssaniIndraprasitdhi/ai-innovator.git
 cd ai‑innovator
 ```
 
